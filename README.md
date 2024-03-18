@@ -12,6 +12,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Basic_Resources
 
+ |-- /Change_Resources
+
  |-- /Screens
 
  |-- README.md
