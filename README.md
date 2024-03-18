@@ -36,6 +36,7 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Simple_Webserver/Security-Group.png?raw=true" style="height:350px; width:700px" /></p>
 </div>
+
 ## 📢 Additional Information
 
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
