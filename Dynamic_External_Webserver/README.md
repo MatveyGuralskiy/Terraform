@@ -21,9 +21,10 @@ Inside the console I enter values for variables I want:
 ## The result of Terraform Console
 <div align="center">
   <img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Dynamic_External_Webserver/Console.png?raw=true" height=400 width=800/>
+  <p>And the tf file after apply will bootstrapping this script template to AWS Instance:</p>
 </div>
 
-And the tf file after apply will bootstrapping this script template to AWS Instance:
+
 
 ## The result of Terraform Plan
 <div align="center">
