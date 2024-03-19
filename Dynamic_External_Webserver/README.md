@@ -1,0 +1,1 @@
+templatefile("script.sh.tpl", { Name = "Matvey", Surname = "Guralskiy",tools = ["Kubernetes", "Docker", "Terraform", "Ansible", "Linux", "Jenkins", "Networking"]})
