@@ -5,7 +5,7 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
 <br>
 <div align=center>
-<p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t1bGcwZmRsaDV2ZDY5NXFmZGNjZjFrc3pzZ2t6aTdiOWprZGJmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" style="height:350px; width:350px" /></p>
+<p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE1ODg3aXZpbnZmbDE4Zzc5M3Z2aXVqM2o3NzV2MDRjemxjZWswcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1173PdfJWRsoE/giphy.gif" style="height:450px; width:750px" /></p>
 </div>
 
 ### 📁 Repository
