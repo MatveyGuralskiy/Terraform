@@ -22,6 +22,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Dynamic_Security_group
 
+ |-- /Lifecycle_Resources
+
  |-- /Screens
 
  |-- /Simple_Webserver
