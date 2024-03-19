@@ -41,6 +41,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Change_Resources/Result.png?raw=true" style="height:350px; width:700px" /></p>
 
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Simple_Webserver/Security-Group.png?raw=true" style="height:350px; width:700px" /></p>
+
+<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Dynamic_External_Webserver/Result.png?raw=true" style="height:380px; width:700px" /></p>
 </div>
 
 ## 📢 Additional Information
