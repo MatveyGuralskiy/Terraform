@@ -16,6 +16,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Credentials
 
+ |-- /Data_Source
+
  |-- /Destroy_Resources
 
  |-- /Dynamic_External_Webserver
@@ -23,6 +25,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
  |-- /Dynamic_Security_group
 
  |-- /Lifecycle_Resources
+
+ |-- /Order_Resources
 
  |-- /Outputs
 
