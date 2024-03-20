@@ -24,6 +24,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Lifecycle_Resources
 
+ |-- /Outputs
+
  |-- /Screens
 
  |-- /Simple_Webserver
