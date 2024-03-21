@@ -24,6 +24,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Dynamic_Security_group
 
+ |-- /Highly_Available_Website
+
  |-- /Lifecycle_Resources
 
  |-- /Order_Resources
@@ -42,7 +44,9 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
 <br>
 <div align="center">
-<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Static_External_Webserver/Result.png?raw=true" style="height:380px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Static_External_Webserver/Result.png?raw=true" style="height:400px; width:700px" /></p>
+
+<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Highly_Available_Website/AWS-Webserver-New-Version-1.png?raw=true" style="height:400px; width:700px" /></p>
 
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/assets/156613328/a34d2d1d-c6c9-4971-917a-de1c68422077" style="height:700px; width:700px" /></p>
 
