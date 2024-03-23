@@ -10,6 +10,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
 ### 📁 Repository
 
+ |-- /Autocomplete_Variables
+
  |-- /Basic_Resources
 
  |-- /Change_Resources
