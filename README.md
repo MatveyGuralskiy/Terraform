@@ -39,6 +39,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
  |-- /Simple_Webserver
  
  |-- /Static_External_Webserver
+
+ |-- /Variables
  
  |-- README.md
 
