@@ -16,6 +16,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Change_Resources
 
+ |-- /Conditions
+
  |-- /Credentials
 
  |-- /Database_MySQL
