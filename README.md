@@ -40,6 +40,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Local_Variables
 
+ |-- /Lookup
+
  |-- /Order_Resources
 
  |-- /Outputs
