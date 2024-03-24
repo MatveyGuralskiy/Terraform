@@ -18,6 +18,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Credentials
 
+ |-- /Database_MySQL
+
  |-- /Data_Source
 
  |-- /Destroy_Resources
