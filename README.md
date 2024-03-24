@@ -32,6 +32,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Lifecycle_Resources
 
+ |-- /Local_Commands
+
  |-- /Local_Variables
 
  |-- /Order_Resources
