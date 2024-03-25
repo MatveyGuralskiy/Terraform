@@ -60,6 +60,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
  
  |-- /Static_External_Webserver
 
+ |-- /VPC
+
  |-- /Variables
  
  |-- README.md
