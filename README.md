@@ -44,6 +44,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Loops_Count_For_If
 
+ |-- /Multiple_Regions
+
  |-- /Order_Resources
 
  |-- /Outputs
