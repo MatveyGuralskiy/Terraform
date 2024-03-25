@@ -52,6 +52,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Password_Generation
 
+ |-- /S3_Bucket
+
  |-- /Screens
 
  |-- /Simple_Webserver
