@@ -1,4 +1,4 @@
-# S3 Bucket
+# S3 Bucket Resource
 ## It's a basic Terraform files which work with Amazon Web Services (AWS)
 The files create resource AWS S3 Bucket with versioning and encryption for you<br>
 At the end outputs of tf files shows to you domain name of S3 Bucket and id of Bucket
