@@ -46,6 +46,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Modules
 
+ |-- /Multiple_Infrastructure_Example
+
  |-- /Multiple_Regions
 
  |-- /Order_Resources
