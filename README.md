@@ -30,6 +30,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Dynamic_Security_group
 
+ |-- /Global_Variables
+
  |-- /Highly_Available_Cluster
 
  |-- /Highly_Available_Website
