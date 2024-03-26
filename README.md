@@ -64,6 +64,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /VPC
 
+ |-- /VPC_2
+
  |-- /Variables
  
  |-- README.md
@@ -72,9 +74,12 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
 <br>
 <div align="center">
-<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Static_External_Webserver/Result.png?raw=true" style="height:400px; width:700px" /></p>
-
+ 
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Remote_State/Deployment.png?raw=true" style="height:400px; width:700px" /></p>
+
+<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/VPC_2/Demonstration.png?raw=true" style="height:400px; width:700px" /></p>
+
+<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Static_External_Webserver/Result.png?raw=true" style="height:400px; width:700px" /></p>
 
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Highly_Available_Website/AWS-Webserver-New-Version-1.png?raw=true" style="height:400px; width:700px" /></p>
 
