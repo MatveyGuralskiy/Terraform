@@ -60,6 +60,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Password_Generation
 
+ |-- /Recreate_Resources
+
  |-- /Remote_State
 
  |-- /S3_Bucket
