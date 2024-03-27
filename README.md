@@ -16,6 +16,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Change_Resources
 
+ |-- /Cloud
+
  |-- /Conditions
 
  |-- /Credentials
@@ -97,7 +99,7 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/raw/main/Screens/Modules/AWS_VPC/Demonstration-Development.png?raw=true" style="height:400px; width:700px" /></p>
 
-<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Highly_Available_Website/AWS-Webserver-New-Version-1.png?raw=true" style="height:400px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Cloud/Website-Deploy-2.png?raw=true" style="height:400px; width:700px" /></p>
 
 <p><img src="https://github.com/MatveyGuralskiy/Terraform/assets/156613328/a34d2d1d-c6c9-4971-917a-de1c68422077" style="height:700px; width:700px" /></p>
 
