@@ -36,6 +36,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Highly_Available_Website
 
+ |-- /Import
+
  |-- /Lifecycle_Resources
 
  |-- /Local_Commands
