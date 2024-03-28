@@ -46,6 +46,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Local_Variables
 
+ |-- /Lock_File
+
  |-- /Lookup
 
  |-- /Loops_Count_For_If
