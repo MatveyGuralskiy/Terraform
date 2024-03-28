@@ -22,6 +22,8 @@ Public Subnets: 10.200.1.0/24, 10.200.2.0/24
 
 Private Subnets: 10.200.11.0/24, 10.200.12.0/24
 
+In directory Module_Work we have example of how to use this Module
+
 ## Demonstration of VPC's
 <div align="center">
   <img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Modules/AWS_VPC/Demonstration-Staging.png?raw=true" height=500 width=800/>
