@@ -40,6 +40,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Import
 
+ |-- /Import_Block
+
  |-- /Lifecycle_Resources
 
  |-- /Local_Commands
