@@ -17,4 +17,6 @@ VARIABLE_YOU_WANT_TO_CHANGE = "NEW_PARAMETER"
 
 My List of Modules:
 
-- AWS_VPC
+- AWS VPC
+
+- Instances Multiple Regions
