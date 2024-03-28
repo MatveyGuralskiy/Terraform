@@ -15,5 +15,5 @@ It's suits to a big companies in IT, that doesn't want to run resources in Inter
 
 ## Terraform Homepage of Enterprise
 <div align="center">
-    <img src="">
+    <img src="https://github.com/MatveyGuralskiy/Terraform/blob/main/Screens/Cloud/Cloud_Enterprise/Homepage.png?raw=true">
 </div>
