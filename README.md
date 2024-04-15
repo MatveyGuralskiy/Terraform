@@ -44,6 +44,8 @@ Hosts a collection of Terraform configuration files for infrastructure provision
 
  |-- /Lifecycle_Resources
 
+ |-- /LoadBalancer
+
  |-- /Local_Commands
 
  |-- /Local_Variables
