@@ -20,3 +20,5 @@ My List of Modules:
 - AWS VPC
 
 - Instances Multiple Regions
+
+- Simple VPC + EC2
